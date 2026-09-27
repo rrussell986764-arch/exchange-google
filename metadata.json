@@ -1,0 +1,6 @@
+{
+  "name": "PensiveCarding",
+  "description": "Sell and exchange gift cards (Steam, Apple, Amazon, Razer Gold, Sephora, Vanilla Visa, Amex) for instant Naira (NGN) bank transfer, Mobile Money, and global crypto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
